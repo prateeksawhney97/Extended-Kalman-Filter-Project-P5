@@ -1,9 +1,12 @@
 #include "tools.h"
 #include <iostream>
+#include <vector>
 
 using Eigen::VectorXd;
 using Eigen::MatrixXd;
 using std::vector;
+using std::cout;
+using std::endl;
 
 Tools::Tools() {}
 
